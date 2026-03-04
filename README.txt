@@ -26,7 +26,7 @@ dagster-webserver==1.12.6
 
 DATA LOCATIONS:
 - S3 Bucket: s3://meu-scalabillity-data-ghcnd/
-- MongoDB: mongodb://localhost:27017/climate_analysis
+- MongoDB: mongodb://localhost:"WRITE HERE YOUR LOCAL HOST"/climate_analysis
 
 NOTES:
 - +77,136 station files extracted to S3
